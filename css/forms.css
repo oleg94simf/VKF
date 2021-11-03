@@ -398,3 +398,9 @@ input[type="email"]:valid {
   font-size: 14px;
   display: inline-block;
 }
+
+.checkbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
